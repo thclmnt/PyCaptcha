@@ -29,4 +29,4 @@ print(captcha.result)
 ```
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENCE)
